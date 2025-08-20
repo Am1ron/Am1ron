@@ -29,6 +29,6 @@
 ## Certifications
 
 <div>
-<img src = "https://img.shields.io/badge/Cisco-Certificate-blue?logo=cisco)](https://www.netacad.com/certificates?issuanceId=fe191148-1c03-4c2b-b23d-196b5ca2ec0f)">/
-
+<img src="https://img.shields.io/badge/Cisco-Certificate-blue?style=flat&logo=cisco&logoColor=white">
+</a>
   
